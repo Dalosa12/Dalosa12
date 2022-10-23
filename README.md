@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dalosa12
+- 👋 Hi, I’m @DalosaDev
 - 👀 I’m interested in ... Unity, C#, C++, Game Development
 - 🌱 I’m currently learning ... Unity, C#, C++
 - 💞️ I’m looking to collaborate on Game development
